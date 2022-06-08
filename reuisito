@@ -1,0 +1,8 @@
+Requisitos da entrega semana 3 (10 pontos):
+
+V Inicializar projeto em react com a estrutura básica (1 ponto);
+V Criação do componente Header com ao menos um icone (2 pontos);
+    - Lista de objetos em memória ou fazer requisição de get na API (1 ponto);
+    - Utilizar um useState para armazenar lista de objetos (2 pontos); 
+    - Renderizar essa lista na tela com o método map (2 ponto);
+    - Criação do componente Card, recebendo os valores por props e renderizando eles corretamente (2 pontos); 
